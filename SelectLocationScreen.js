@@ -8,11 +8,11 @@ export default function SelectLocationScreen({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Select Your Location</Text>
+      <Text style={styles.title}>Chọn đia điểm của bạn</Text>
       <Text style={styles.subtitle}>
         Switch on your location to stay in tune with what's happening in your area
       </Text>
-      <Text style={styles.label}>Your Zone</Text>
+      <Text style={styles.label}>Khu vực của bạn</Text>
       <Picker
         selectedValue={zone}
         style={styles.picker}
@@ -21,7 +21,7 @@ export default function SelectLocationScreen({ navigation }) {
         <Picker.Item label="Banashree" value="Banashree" />
         <Picker.Item label="Other Zone" value="Other Zone" />
       </Picker>
-      <Text style={styles.label}>Types of Your Area</Text>
+      <Text style={styles.label}>Loại khu vực của bạn</Text>
       <Picker
         selectedValue={area}
         style={styles.picker}

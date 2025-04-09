@@ -1,14 +1,15 @@
-import { StatusBar } from 'expo-status-bar';
+import React, { useEffect } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { Carrot } from 'lucide-react-native';
-import React, { useEffect } from "react";
+import { StatusBar } from 'expo-status-bar';
 
 export default function SplashScreen({ navigation }) {
   useEffect(() => {
     setTimeout(() => {
-      navigation.replace("OnBoarding");
+      navigation.replace('OnBoarding');
     }, 3000);
-  }, []);
+  }, [navigation]);
+
   return (
     <View style={styles.container}>
       <View style={styles.content}>
@@ -28,20 +29,20 @@ const styles = StyleSheet.create({
     backgroundColor: '#53B175',
     alignItems: 'center',
     justifyContent: 'center',
-    height: "100%",
-    width: "100%"
+    height: '100%',
+    width: '100%',
   },
   content: {
-    flexDirection: "row", 
-    alignItems: "center", 
+    flexDirection: 'row',
+    alignItems: 'center',
   },
   textmain: {
-    color: "white",
-    fontSize: 30, 
-    fontWeight: "bold",
+    color: 'white',
+    fontSize: 30,
+    fontWeight: 'bold',
   },
   text: {
-    color: "white",
-    fontSize: 18, 
-  }
+    color: 'white',
+    fontSize: 18,
+  },
 });

@@ -64,7 +64,8 @@ export default function LoginScreen({ navigation }) {
       <TouchableOpacity>
         <Text style={styles.forgotPassword}>Forgot Password?</Text>
       </TouchableOpacity>
-      <Button title="Log in" color="#53B175"  onPress={handleLogin} />
+      {/* <Button title="Log in" color="#53B175"  onPress={handleLogin} /> */}
+      <Button title="Log in" color="#53B175"  onPress={() => navigation.navigate('MainTabs')} />
       <TouchableOpacity onPress={() => navigation.navigate('SignUp')}>
         <Text style={styles.signUpText}>Don't have an account? SignUp</Text>
       </TouchableOpacity>

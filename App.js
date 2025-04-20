@@ -19,6 +19,7 @@ import AccountScreen from "./AccountScreen";
 import ExploreScreen from "./ExploreScreen";
 import ProductDetailScreen from "./ProductDetailScreen";
 import CategoryScreen from "./CategoryScreen";
+import FilterScreen from "./FilterScreen"
 
 import  Icon  from "react-native-vector-icons/Ionicons";
 
@@ -31,6 +32,7 @@ function ExploreStack() {
       <Stack.Screen name="ExploreHome" component={ExploreScreen} />
       <Stack.Screen name="Category" component={CategoryScreen} />
       <Stack.Screen name="ProductDetail" component={ProductDetailScreen} />
+      <Stack.Screen name="FilterScreen" component={FilterScreen} />
     </Stack.Navigator>
   );
 }
@@ -81,7 +83,7 @@ export default function App() {
         <Stack.Screen name="SelectLocation" component={SelectLocationScreen} />
         <Stack.Screen name="Login" component={LoginScreen} />
         <Stack.Screen name="SignUp" component={SignUpScreen} />
-        {/* <Stack.Screen name="Success" component={SuccessScreen} /> */}
+        {/* <Stack.Screen name="Filter" component={FilterScreen} /> */}
         {/* sau đăng nhập thì sẽ sang đây */}
         <Stack.Screen name="MainTabs" component={MainTabs} />
       </Stack.Navigator>

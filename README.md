@@ -9,3 +9,7 @@
 ![loginnew](https://github.com/user-attachments/assets/291268cf-7f77-444c-8fd0-a8df39ffe259)
 ![signupnew](https://github.com/user-attachments/assets/42bb2679-a8b9-4c9c-9541-bc314c7527d5)
 ![diadiemnew](https://github.com/user-attachments/assets/2a81fdea-84aa-4502-b986-e3d7f9dc2c92)
+![productDetail](https://github.com/user-attachments/assets/601b88b4-243d-49f4-af09-87cd4842079b)
+![homeScreen](https://github.com/user-attachments/assets/bc0bf3fb-4c6a-41bb-8b1f-d9a5df665cde)
+![searchScreen](https://github.com/user-attachments/assets/7bd4700a-6c6b-4423-ae41-6455e5c9037e)
+![beverrage](https://github.com/user-attachments/assets/e9802def-dca0-46be-a54f-d09348fbbb46)

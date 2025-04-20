@@ -13,3 +13,5 @@
 ![homeScreen](https://github.com/user-attachments/assets/bc0bf3fb-4c6a-41bb-8b1f-d9a5df665cde)
 ![searchScreen](https://github.com/user-attachments/assets/7bd4700a-6c6b-4423-ae41-6455e5c9037e)
 ![beverrage](https://github.com/user-attachments/assets/e9802def-dca0-46be-a54f-d09348fbbb46)
+![updatesearch](https://github.com/user-attachments/assets/2fa5ba2d-8cf3-417a-891d-c6d87a77b9f2)
+![fillter](https://github.com/user-attachments/assets/59fbbc9d-aef0-4c06-a001-f16eb08c9e1c)

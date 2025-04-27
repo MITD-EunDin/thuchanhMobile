@@ -20,6 +20,7 @@ import ExploreScreen from "./ExploreScreen";
 import ProductDetailScreen from "./ProductDetailScreen";
 import CategoryScreen from "./CategoryScreen";
 import FilterScreen from "./FilterScreen"
+import Myfavorite from './Myfavorite';
 
 import  Icon  from "react-native-vector-icons/Ionicons";
 
@@ -65,7 +66,7 @@ function MainTabs() {
       <Tab.Screen name="Home" component={HomeScreen} />
       <Tab.Screen name="Explore" component={ExploreStack} />
       <Tab.Screen name="Cart" component={CartScreen} />
-      <Tab.Screen name="Favourite" component={CartScreen} />
+      <Tab.Screen name="Favourite" component={Myfavorite} />
       <Tab.Screen name="Account" component={AccountScreen} />
     </Tab.Navigator>
   );

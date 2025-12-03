@@ -1,6 +1,6 @@
 # thuchanhMobile
 # Tôn Văn Diện 22810310347
-
+```bash
 ![loginup](https://github.com/user-attachments/assets/6bc3809b-a655-4670-a9ff-7857f4cb5ca6)
 ![number](https://github.com/user-attachments/assets/490c7f88-553b-49d0-a34e-99628488df3d)
 ![splashscreen](https://github.com/user-attachments/assets/d3ad19be-7b26-4423-a19a-363dae0a2fb0)
@@ -15,3 +15,4 @@
 ![beverrage](https://github.com/user-attachments/assets/e9802def-dca0-46be-a54f-d09348fbbb46)
 ![updatesearch](https://github.com/user-attachments/assets/2fa5ba2d-8cf3-417a-891d-c6d87a77b9f2)
 ![fillter](https://github.com/user-attachments/assets/59fbbc9d-aef0-4c06-a001-f16eb08c9e1c)
+```

@@ -1,5 +1,4 @@
 # thuchanhMobile
-# Tôn Văn Diện 22810310347
 ```bash
 ![loginup](https://github.com/user-attachments/assets/6bc3809b-a655-4670-a9ff-7857f4cb5ca6)
 ![number](https://github.com/user-attachments/assets/490c7f88-553b-49d0-a34e-99628488df3d)
